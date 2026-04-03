@@ -28,5 +28,5 @@ An end-to-end, event-driven HFT alpha pilot designed for microsecond-level execu
 
 ## 📫 Let's Connect
 - **Topcoder:** [https://profiles.topcoder.com/khan055]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** [www.linkedin.com/in/umais-khan-28664b400]
 - **Gitcoin:** Active in Web3 & Open Source Grants
