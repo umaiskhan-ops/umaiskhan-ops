@@ -26,6 +26,17 @@ An end-to-end, event-driven HFT alpha pilot designed for microsecond-level execu
 
 ---
 
+## 💎 Support the Research (Grants & Donations)
+**Why Donate?**  
+Developing low-latency, high-fidelity trading tools requires significant R&D in market microstructure and spectral analysis. Your contributions directly fund:
+- 🚀 **Open-Source Core Expansion:** Making more institutional modules available to the community.
+- 🔬 **Algorithmic Research:** Refining Genetic Optimizers and Regime Detection models.
+- 🛡️ **Security Audits:** Ensuring the highest standard of risk-gating for public modules.
+
+**[Click Here to Support via Gitcoin / Crypto]** *(Add your Link here)*
+
+---
+
 ## 📫 Let's Connect
 - **Topcoder:** [https://profiles.topcoder.com/khan055]
 - **LinkedIn:** [www.linkedin.com/in/umais-khan-28664b400]
